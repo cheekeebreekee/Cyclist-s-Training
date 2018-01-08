@@ -1,0 +1,21 @@
+{
+  "name": "Cyclist-s-Training",
+  "version": "1.0.0",
+  "description": "Cyclist-s-Training task for code battle",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyKovalchuk/Cyclist-s-Training"
+  },
+  "author": "SergeyKovalchuk",
+  "bugs": {
+    "url": "https://github.com/SergeyKovalchuk/Cyclist-s-Training/issues"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "homepage": "https://github.com/SergeyKovalchuk/Cyclist-s-Training#readme"
+}
